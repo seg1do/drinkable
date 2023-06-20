@@ -11,7 +11,8 @@
         "cocktails-list": "Tous les cocktails",
         "cocktails-from-ingredients": "A partir des ingrédients",
         "cocktails-favorites": "Favoris",
-        "settings": "Configuration"
+        "settings": "Configuration",
+        "user": "Profil"
     },
     "rearrange-widgets": "Réorganiser les widgets",
     "search": "Rechercher",
@@ -51,10 +52,10 @@
     "name": "Nom",
     "delete-cocktail": "Supprimer cocktail",
     "all-categories": "Toutes les catégories",
-    "spirit": "Esprit",
-    "all-spirits": "Tous les esprits",
+    "spirit": "Spiritueux",
+    "all-spirits": "Tous les spiritueux",
     "apply": "Appliquer",
-    "edit-ingredient": "Editer Ingrédient",
+    "edit-ingredient": "Éditer Ingrédient",
     "create-ingredient": "Créer Ingrédient",
     "cancel": "Annuler",
     "save": "Sauvegarder",
@@ -72,11 +73,12 @@
     "unit": "Unité",
     "basic-app-translations": "Traduction de base de l''application",
     "ingredient-translations": "Traduction des ingrédients",
+    "cocktail-translations": "Traduction des cocktails",
     "rating": "Classement",
     "show-only-favorites": "Afficher uniquement les favoris",
     "drink-category": {
         "cocktail": "Cocktail",
-        "shot": "Tir",
+        "shot": "Shot",
         "other": "Autre",
         "ingredient": "Ingrédient",
         "mocktail": "Mocktail"
@@ -91,5 +93,33 @@
     },
     "or": "Ou",
     "show-mocktails": "Afficher mocktails",
-    "all-ingredients": "Tous les ingrédients"
+    "all-ingredients": "Tous les ingrédients",
+    "new-cocktails": "Nouveau",
+    "tag": "Étiquettes",
+    "tags": "Étiquettes",
+    "all-tags": "Tous les étiquettes",
+    "edit-cocktail-tags": "Modifier les étiquettes",
+    "tag-list": {
+        "iba": "IBA",
+        "former-iba": "Anciens IBA",
+        "the-unforgettables": "Les Incontournables",
+        "contemporary-classics": "Les Classiques",
+        "new-era-drinks": "New Era Drinks"
+    },
+    "user": {
+        "created-data": "Paramètres",
+        "other": "Autre",
+        "settings-title": "Settings",
+        "settings-subtitle": "Thème, Langue etc",
+        "contact-title": "Contact",
+        "contact-subtitle": "Envoyer un message",
+        "cocktails-title": "Mes cocktails",
+        "cocktails-subtitle": "Modifier mes cocktails",
+        "ingredients-title": "Mes ingredients",
+        "ingredients-subtitle": "Modifier mes ingredients",
+        "tags-title": "Mes étiquettes",
+        "tags-subtitle": "Modifier mes étiquettes",
+        "create-cocktail-tag": "Créer étiquette",
+        "edit-cocktail-tag": "Modifier étiquette"
+    }
 }
